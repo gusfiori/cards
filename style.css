@@ -1,0 +1,105 @@
+.container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+
+
+.card{
+    
+    width: 300px;
+    height: 530px;
+    border-radius: 15px;
+    margin-top: 50px;
+    background-color: rgb(31, 29, 29);
+    text-align: center;
+    margin: 10px;
+}
+
+.card2{
+    width: 300px;
+    height: 530px;
+    border-radius: 15px;
+    margin-top: 50px;
+    background-color: rgb(153, 197, 51);
+    text-align: center;
+    margin: 10px;
+}
+
+.card3{
+    width: 300px;
+    height: 530px;
+    border-radius: 15px;
+    margin-top: 50px;
+    background-color: rgb(120, 134, 87);
+    text-align: center;
+    margin: 10px;
+}
+
+.foto{
+    width: 250px;
+    height: 200px;
+    border-radius: 15px;
+    margin-top: 20px;
+
+}
+
+.text-main{
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.text-main2{
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+
+.desc{
+    color: rgb(216, 216, 216);
+    font-weight: 200;
+    text-align: center;
+    
+}
+
+.desc2{
+    color: rgb(255, 255, 255);
+    font-weight: 200;
+    text-align: center;
+    
+}
+
+.btn{
+    padding: 10px 35px;
+    font-size: 15px;
+    font-weight: 600;
+    border-radius: 10px;
+    border: none;
+    transition: 1s;
+    background-color: rgb(255, 145, 0);
+    color: white;
+    cursor: pointer;
+} 
+
+.btn:hover{
+    transition: 1s;
+    background-color: gray;
+    color: white;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.container1{
+    display: flex;
+    
+}
